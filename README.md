@@ -2,7 +2,7 @@
 # Data Overview
 
 |Variable | Definition | Key | Notes |
----------------------------------------------
+|---------|------------|-----|-------|
 |Survived| Survival| 1 = Yes, 0 = No| |
 |Pclass| Ticket| Class	1 = 1st, 2 = 2nd, 3 = 3rd | A proxy for socio-economic status 1st = Upper, 2nd = Middle, 3rd = Lower|
 |Age| Age is fractional if less than 1. | If the age is estimated, is it in the form of xx.5 | |
